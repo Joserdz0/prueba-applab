@@ -6,8 +6,8 @@ Este proyecto es una aplicación backend desarrollada en Java, utilizando el fra
 
 - Java 17+
 - Spring Boot
-- Maven
-- Lombok 
+- MySQl
+
 
 ---
 
